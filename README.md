@@ -1,4 +1,3 @@
-# The NCCU and Princeton University Library Early Career Fellowship
 ## What is the fellowship?
 This fellowship is a partnership between Princeton University Library (PUL) and NCCU SLIS to provide early career support for recent NCCU SLIS graduates. 
 
@@ -36,4 +35,4 @@ Fellows also receive funds for professional development, which can be used for t
 ### What is the hiring process like?
 You will need to submit a resume, cover letter, and NCCU SLIS course transcript. Our fellowship committee can help you prepare your application materials upon request. 
 
-After the application deadline, the hiring committees for these postions will select candidates for an initial phone interview. Then, a smaller group will be invited for all expenses paid on-campus interviews at Princeton University. During the on-campus interview, candidates will meet their potential supervisor and work team, and will answer questions that will be provided ahead of time. We hope to conduct in person interviews in April 2024, and to make formal job offers in May 2024. 
+After the application deadline, the hiring committees for these postions will select candidates for an initial phone interview. Then, a smaller group will be invited for all expenses paid on-campus interviews at Princeton University. During the on-campus interview, candidates will meet their potential supervisor and work team, and will answer questions that will be provided ahead of time. We hope to conduct in person interviews in April 2024, and to make formal job offers in May 2024.
