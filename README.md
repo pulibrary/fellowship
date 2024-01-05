@@ -7,7 +7,14 @@ These are both two year positions with full salary and benefits. Both positions 
 ## Frequently asked questions:
 
 ### How do I apply?
-Official applications will open in late fall 2023, and will be announced on this page. In the meantime if you want to talk to our team, and get support preparing your application materials, fill out this [fellowship interest form](https://forms.gle/rXWBWPWKTYg8Fr7N7). 
+
+Applications must include cover letter, resume and academic transcript. In your cover letter, please discuss the impact you hope to have on the information profession’s lack of diversity. Priority will be given to applications received by **January 22, 2024**. Professionals who enthusiastically embrace the empathy, courage, self-reflection and respect of a multi-cultural, diverse and inclusive workplace, and who strive to incorporate those values in their work and interactions are encouraged to apply.
+* Cataloging and Metadata Services Fellow application link: https://main-princeton.icims.com/jobs/18260/cataloging-and-metadata-services-fellow/job
+* Library IT Development Operations Fellow application link: https://main-princeton.icims.com/jobs/18261/library-it-development-operations-(devops)-fellow/job
+
+You are welcome to apply for both positions.
+
+Our team is still available to review application materials ahead of time, and you can request this service by filling out [the fellowship interest form](https://docs.google.com/forms/d/e/1FAIpQLSfSqkVow5clp9akrgzFcY8QaTwb0qW7bTmqtz5TyLID-n7krQ/viewform).
 
 ### Who is eligible?
 Graduates of NCCU SLIS from 2024, 2023, or 2022 are eligible. Your degree must be completed by June 2024. You must be legally allowed to work in the United States. 
