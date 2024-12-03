@@ -10,9 +10,9 @@ The position is fully remote, and all equipment will be provided.
 
 ### How do I apply?
 
-Applications must include cover letter, resume and academic transcript. In your cover letter, please discuss the impact you hope to have on the information profession’s lack of diversity. Priority will be given to applications received by **DATE TBD**. Professionals who enthusiastically embrace the empathy, courage, self-reflection and respect of a multi-cultural, diverse and inclusive workplace, and who strive to incorporate those values in their work and interactions are encouraged to apply.
+Applications must include cover letter, resume and academic transcript. In your cover letter, please discuss the impact you hope to have on the information profession’s lack of diversity. Priority will be given to applications received by **January 1, 2025**. Professionals who enthusiastically embrace the empathy, courage, self-reflection and respect of a multi-cultural, diverse and inclusive workplace, and who strive to incorporate those values in their work and interactions are encouraged to apply.
 
-The application link will appear here when it is live.
+Please apply at [the application link](https://main-princeton.icims.com/jobs/20222/software-development-fellow/job).
 
 Our team is available to review application materials ahead of time, and you can request this service by filling out [the fellowship interest form](https://docs.google.com/forms/d/e/1FAIpQLSfSqkVow5clp9akrgzFcY8QaTwb0qW7bTmqtz5TyLID-n7krQ/viewform).
 
